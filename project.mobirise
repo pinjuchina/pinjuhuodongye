@@ -532,7 +532,7 @@
             "overlayColor": "#ecf0f1",
             "showTitle": true,
             "showText": false,
-            "countdown": "2017/06/30"
+            "countdown": "2017/07/30"
           },
           "title": "<font color=\"#000000\">活动倒计时</font>",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci a, rem accusantium recusandae beatae. Eos quae sint minus dolorum facere, iure illum veritatis harum minima quod voluptatibus culpa tenetur eveniet enim. Natus, id cupiditate aperiam obcaecati incidunt nam minus accusantium libero officia expedita dignissimos optio, quis, minima quibusdam esse saepe!"
@@ -574,7 +574,7 @@
           "cat1": "地址：深圳市南山区蛇口沿山路43号创业壹号大厦C座201",
           "title1": "品居租房网",
           "cat2": "联系方式：",
-          "title2": "<span style=\"font-size: 1.5rem; line-height: 1.1em;\">pinjuvip@126.com</span><br><span style=\"font-size: 1.5rem; line-height: 1.1em;\">pinjuvip_com &nbsp;（公众号） &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><br><span style=\"font-size: 1.5rem; line-height: 1.1em;\"><a href=\"https://pinjuchina.github.io/pinjujieshao/\"><br></a></span><span style=\"font-size: 1.5rem; line-height: 1.1em;\"><a href=\"https://pinjuchina.github.io/pinjujieshao/\">关于我们</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><br>",
+          "title2": "<span style=\"font-size: 1.5rem; line-height: 1.1em;\">info@pinju.site</span><br><span style=\"font-size: 1.5rem; line-height: 1.1em;\">pinjuvip_com &nbsp;（微信公众号） &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><br><span style=\"font-size: 1.5rem; line-height: 1.1em;\"><a href=\"https://pinjuchina.github.io/pinjujieshao/\"><br></a></span><span style=\"font-size: 1.5rem; line-height: 1.1em;\"><a href=\"https://pinjuchina.github.io/pinjujieshao/\">关于我们</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><br>",
           "cat3": "email",
           "title3": "sample@sample.us",
           "text": "<b>品质居家 &nbsp; &nbsp;服务你家</b>",
@@ -638,7 +638,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "&nbsp; &nbsp; www.pinjuvip.com &nbsp;<font color=\"#000000\">品居租房 &nbsp;品质居家 &nbsp; 2017年5月</font>"
+          "text": "&nbsp; &nbsp; www.pinjuvip.com &nbsp;<font color=\"#000000\">品居租房 &nbsp;品质居家 &nbsp; 2017年6月</font>"
         }
       ]
     }
