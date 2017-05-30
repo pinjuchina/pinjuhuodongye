@@ -759,6 +759,9 @@ blockquote {
 #features8-e .mbr-section-text FONT {
   color: #999999;
 }
+#features8-e .mbr-section-subtitle FONT {
+  color: #999999;
+}
 #features8-f .lead {
   color: #9fa3a7;
 }
@@ -791,6 +794,9 @@ blockquote {
 }
 #contacts3-t .mbr-section-title SPAN {
   font-size: 12px;
+}
+#contacts3-t .mbr-section-text B {
+  color: #f39c12;
 }
 #footer2-u .mbr-section-text {
   color: #fff;

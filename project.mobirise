@@ -55,11 +55,11 @@
           },
           "_anchor": "content5-l",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingTop": "5",
+            "paddingBottom": "5",
             "bgImageRadio": true,
             "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2000x1531.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/45302-2000x835.jpg",
             "bgColor": "#ecf0f1",
             "bgColorRadio": false,
             "bgVideo": {
@@ -69,11 +69,11 @@
             "overlay": true,
             "overlayOpacity": "0",
             "overlayColor": "#ffffff",
-            "showTitle": true,
+            "showTitle": false,
             "showCaption": true
           },
-          "title": "<span style=\"line-height: 1.17em;\"><br></span><span style=\"line-height: 1.17em;\"><br></span><span style=\"line-height: 1.17em;\">品居租房 &nbsp;服务你家</span><br>",
-          "caption": "<p><span style=\"font-size: 1rem; line-height: 1.85em;\"><br></span></p><p><span style=\"font-size: 1rem; line-height: 1.85em;\">品居 帮助您 省心 &nbsp;省事 省钱搬进新家.</span><br></p>"
+          "title": "",
+          "caption": ""
         },
         {
           "_styles": {
@@ -221,7 +221,7 @@
           "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x449.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-20170525-1-600x494.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -241,6 +241,9 @@
               "text-transform": "uppercase"
             },
             ".mbr-section-text FONT": {
+              "color": "#999999"
+            },
+            ".mbr-section-subtitle FONT": {
               "color": "#999999"
             }
           },
@@ -289,13 +292,13 @@
             "showImages": true
           },
           "number1": "2",
-          "subtitle1": "洗衣机 &nbsp;全新节能品牌",
-          "title1": "仅需￥49元/月",
+          "subtitle1": "<font color=\"#000000\">电视</font>机 &nbsp;全新节能品牌",
+          "title1": "仅需￥89元/月",
           "caption1": "免费送货上门 租金包含使用费用.<br><font color=\"#000000\">无其它隐形费用.</font>",
           "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x539.png",
+              "src": "@PROJECT_PATH@/assets/images/-20170526-600x450.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -372,7 +375,7 @@
           "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2-600x451.png",
+              "src": "@PROJECT_PATH@/assets/images/-20170525-1-600x447.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -446,7 +449,7 @@
           "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/55-600x488.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-20170525-3-600x478.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -472,7 +475,7 @@
           "_params": {
             "tabs": "3",
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/img_extAccordion1_bg.jpg",
@@ -489,7 +492,7 @@
             "showText": true
           },
           "title": "租前问答",
-          "text": "<font color=\"#000000\">为了您的权益，租赁商品期间假设发生商品损坏该如何赔偿等相关事宜，请在租前</font><font color=\"#000000\">咨询我们！<br></font>.",
+          "text": "<font color=\"#000000\">为了您的权益，租赁商品期间假设发生商品损坏该如何赔偿等相关事宜，请在租前</font><font color=\"#000000\">咨询我们！</font><br><font color=\"#000000\"><br></font><br><font color=\"#000000\"><br></font><br><font color=\"#000000\"><br></font>.",
           "title1": "<a role=\"button\" class=\"text-white collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseOnetoggle2-n\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>关于我们</a>",
           "text1": "品居租房以“全新的互联网地产居间综合服务商”的概念出现，为客户、业主提供更多的贴心服务。如：搬家、入住清洁、入住消毒、家电清洗、家电租赁、代付租金等服务。<div><span style=\"font-size: 1rem; line-height: 1.85em;\"><i><b>全新家电租赁 提升居家品质</b></i></span><br></div><div>“品居租房”为自已的客户提供了全新的家电租赁，如：空调、洗衣机、净水器、空气净化器、小衣柜、抽屉柜、餐桌等家居生活用品，满足不同需求客户。</div><div><span style=\"font-size: 1rem; line-height: 1.85em;\">找品居租房，您只需看房、签约，剩下的事情就交给我们吧！</span></div>",
           "title2": "<a role=\"button\" class=\"text-white collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseTwotoggle2-n\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">&nbsp; &nbsp; &nbsp; &nbsp;租赁期间其它费用</a>",
@@ -542,6 +545,9 @@
             ".form-control-label": {},
             ".mbr-section-title SPAN": {
               "font-size": "12px"
+            },
+            ".mbr-section-text B": {
+              "color": "#f39c12"
             }
           },
           "alias": "colorm/components",
