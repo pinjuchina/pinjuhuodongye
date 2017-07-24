@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 32,
+    "uniqCompNum": 34,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@"
   },
@@ -59,7 +59,7 @@
             "paddingBottom": "5",
             "bgImageRadio": true,
             "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/45302-2000x835.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/213-2000x1230.jpg",
             "bgColor": "#ecf0f1",
             "bgColorRadio": false,
             "bgVideo": {
@@ -535,7 +535,7 @@
             "overlayColor": "#ecf0f1",
             "showTitle": true,
             "showText": false,
-            "countdown": "2017/07/30"
+            "countdown": "2017/09/30"
           },
           "title": "<font color=\"#000000\">活动倒计时</font>",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci a, rem accusantium recusandae beatae. Eos quae sint minus dolorum facere, iure illum veritatis harum minima quod voluptatibus culpa tenetur eveniet enim. Natus, id cupiditate aperiam obcaecati incidunt nam minus accusantium libero officia expedita dignissimos optio, quis, minima quibusdam esse saepe!"
@@ -583,7 +583,7 @@
           "title2": "<span style=\"font-size: 1.5rem; line-height: 1.1em;\">info@pinju.site</span><br><span style=\"font-size: 1.5rem; line-height: 1.1em;\">pinjuvip_com（公众号） &nbsp; &nbsp;&nbsp;</span><br><span style=\"font-size: 1.5rem; line-height: 1.1em;\"><a href=\"https://pinjuchina.github.io/pinjujieshao/\"><br></a></span><span style=\"font-size: 1.5rem; line-height: 1.1em;\"><a href=\"https://pinjuchina.github.io/pinjujieshao/\">关于我们</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><br>",
           "cat3": "email",
           "title3": "sample@sample.us",
-          "text": "<b>品质居家 &nbsp; &nbsp;服务你家</b>",
+          "text": "<b>品质居家 &nbsp; &nbsp;服务您家</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-skype\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin\"></span></a>",
           "form": {
             "action": "xihanw@qq.com",
@@ -644,7 +644,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "&nbsp; &nbsp; www.pinjuvip.com &nbsp;<font color=\"#000000\">品居租房 &nbsp;品质居家 &nbsp; 2017年6月</font>"
+          "text": "&nbsp; &nbsp; www.pinjuvip.com &nbsp;<font color=\"#000000\">品居租房 &nbsp;品质居家 &nbsp; 2017年7月</font>"
         }
       ]
     }
